@@ -58,7 +58,7 @@ Please be sure to complete these surveys before and after the workshop.
 
 | Topic                 | HTML Slide              | PDF Slide               |
 |-----------------------|-------------------------|-------------------------|
-| Introduction to R and RStudio | [View]() | [Download]() |
+| Introduction to R and RStudio | [View](https://leykungetaneh.quarto.pub/introduction2r/) | [Download]() |
 | Data Manipulation with dplyr in R (Part 1) | [View]() | [Download]() |
 | Data data management in R with the Tidyverse (Part 2: Recoding) | [View]() | [Download]() |
 | Data data management in R with the Tidyverse (Part 3: Merging) | [View]() | [Download]() |
@@ -74,32 +74,18 @@ If you don’t already have R and RStudio, you must install R *before* you insta
 
 ## 1. Download and install R
 
+![](img/R-logo.jpeg){width="47" height="40"}
 
-
-::::: columns
-::: {.column width="30%"}
 -   **For Windows: [Download R](https://cran.r-project.org/bin/windows/base/release.htm)**
 -   **For Mac: [Download R](https://cran.r-project.org/bin/macosx/)**
-:::
-
-::: {.column width="70%"}
-![](img/R-logo.jpeg){width="57" height="50"}
-:::
-:::::
 
 ## 2. Download and install Rstudio
 
-::::: columns
-::: {.column width="30%"}
+![](img/rstudio.png){width="47"}
+
 -   **For Windows: [Download Rstudio](https://www.rstudio.com/products/rstudio/download/#download)**
 -   **For Mac: [Download Rstudio](https://www.rstudio.com/products/rstudio/download/#download)**
-:::
 
-::: {.column width="70%"}
-![](img/rstudio.png){width="57"}
-:::
-
-:::::
 ------------------------------------------------------------------------
 
 ## Download the Datasets {#download-the-datasets}
