@@ -20,7 +20,7 @@ Welcome to the **Basic R Training** repository! This repository contains all the
 
 ## About This Training 
 
-This training is organized by **Ethiopian Public Health Institute (EPHI)** for public professionals of EPHI and MOH focusing on:
+This training is organized by **Ethiopian Public Health Institute (EPHI)** for public health professionals of EPHI focusing on:
 
 -   Understanding R and RStudio
 -   Data wrangling using the Tidyverse
