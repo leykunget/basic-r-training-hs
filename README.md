@@ -18,7 +18,7 @@ Welcome to the **Basic R Training** repository! This repository contains all the
 
 ------------------------------------------------------------------------
 
-## About This Training {#about-this-training}
+## About This Training 
 
 This training is organized by **Ethiopian Public Health Institute (EPHI)** for public professionals of EPHI and MOH focusing on:
 
@@ -32,16 +32,16 @@ Participants can access the slides and materials for each session below. Simply 
 
 ------------------------------------------------------------------------
 
-## Surveys {#surveys}
+## Surveys 
 
 Please be sure to complete these surveys before and after the workshop.
 
--   [Pre-training Survey](https://forms.gle/Y4oyyewFZwW1fZhh6)
--   [Post-training Survey](https://forms.gle/7GYez8ZWCrzLXfj3A)
+-   [Pre-training Survey](https://forms.gle/8nyzpoRBdh9oL1wm9)
+-   [Post-training Survey]()
 
 ------------------------------------------------------------------------
 
-## Training Schedules {#training-schedules}
+## Training Schedules 
 
 ### September 26-29, 2025
 
@@ -54,7 +54,7 @@ Please be sure to complete these surveys before and after the workshop.
 
 ------------------------------------------------------------------------
 
-## Training Materials {#training-materials}
+## Training Materials 
 
 | Topic                 | HTML Slide              | PDF Slide               |
 |-----------------------|-------------------------|-------------------------|
@@ -68,27 +68,27 @@ Please be sure to complete these surveys before and after the workshop.
 
 ------------------------------------------------------------------------
 
-## Installation {#installation}
+## Installation 
 
 If you don’t already have R and RStudio, you must install R *before* you install RStudio.
 
 ## 1. Download and install R
 
-![](img/R-logo.jpeg){width="47" height="40"}
+<img src="img/R-logo.jpeg" width="47" height="40" />
 
 -   **For Windows: [Download R](https://cran.r-project.org/bin/windows/base/release.htm)**
 -   **For Mac: [Download R](https://cran.r-project.org/bin/macosx/)**
 
 ## 2. Download and install Rstudio
 
-![](img/rstudio.png){width="47"}
+<img src="img/rstudio.png" width="47" height="40" />
 
 -   **For Windows: [Download Rstudio](https://www.rstudio.com/products/rstudio/download/#download)**
 -   **For Mac: [Download Rstudio](https://www.rstudio.com/products/rstudio/download/#download)**
 
 ------------------------------------------------------------------------
 
-## Download the Datasets {#download-the-datasets}
+## Download the Datasets 
 
 You can download the datasets from the following links:
 
@@ -97,7 +97,7 @@ You can download the datasets from the following links:
 
 ------------------------------------------------------------------------
 
-## How to Use This Repository {#how-to-use-this-repository}
+## How to Use This Repository 
 
 1.  Click on the **HTML** links to view the slides online.
 2.  Click on the **PDF** links to download the slides for offline use.
