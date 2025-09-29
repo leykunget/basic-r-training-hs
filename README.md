@@ -61,7 +61,7 @@ Please be sure to complete these surveys before and after the workshop.
 | Introduction to R and RStudio | [View](https://leykungetaneh.quarto.pub/introduction2r/) | [Download]() |
 | Data Manipulation with dplyr in R | [View](https://leykungetaneh.quarto.pub/data-manipulation-r/) | [Download]() |
 | Basic Data Visualization with ggplot2 | [View](https://leykungetaneh.quarto.pub/data-viz-2/#/title-slide) | [Download]() |
-| Reproducible Reports with Quarto/R Markdown | [View]() | [Download]() |
+| Reproducible Reports with Quarto/R Markdown | [View](https://leykungetaneh.quarto.pub/introduction-to-quarto-markdown/#/title-slide) | [Download]() |
 | Data Analysis | [View]() | [Download]() |
 
 ------------------------------------------------------------------------
