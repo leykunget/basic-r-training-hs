@@ -1,6 +1,6 @@
 # Basic R training organized by EPHI
 
-**Authors:** [Leykun Getaneh](https://github.com/leykunget)
+**Authors:** [Leykun Getaneh](https://github.com/leykunget) and [Tesfamichael Awoke](https://github.com/tesfapma)
 
 Welcome to the **Basic R Training** repository! This repository contains all the slides and materials for the R training program conducted by NDMC. The training covers key topics.
 
@@ -36,21 +36,21 @@ Participants can access the slides and materials for each session below. Simply 
 
 Please be sure to complete these surveys before and after the workshop.
 
--   [Pre-training Survey](https://forms.gle/8nyzpoRBdh9oL1wm9)
+-   [Pre-training Survey]()
 -   [Post-training Survey]()
 
 ------------------------------------------------------------------------
 
 ## Training Schedules 
 
-### September 26-29, 2025
+### October 14 – 17, 2025
 
 | Days  | Topic                                           | Facilitator    |
 |-------|-------------------------------------------------|----------------|
-| Day 1 | Introduction to R and Rstudio                   | Leykun Getaneh |
-| Day 2 | Data manipulation                               | Leykun Getaneh |
-| Day 3 | Data Visualization                              | Leykun Getaneh |
-| Day 4 | Creating reproducible reports and Data analysis | Leykun Getaneh |
+| Day 1 | Introduction to R and Rstudio                   | Leykun & Tesfamichael |
+| Day 2 | Data manipulation                               | Tesfamichael & Leykun |
+| Day 3 | Data Visualization                              | Leykun & Tesfamichael |
+| Day 4 | Creating reproducible reports and Data analysis | Tesfamichael & Leykun |
 
 ------------------------------------------------------------------------
 
@@ -101,6 +101,6 @@ You can download the datasets from the following links:
 2.  Click on the **PDF** links to download the slides for offline use.
 3.  Materials will be updated as the training progresses. Please check back for updates.
 
-If you have any questions or issues, please feel free to contact us through [leyk.get\@gmail.com](mailto:leyk.get@gmail.com).
+If you have any questions or issues, please feel free to contact us through [leyk.get\@gmail.com](mailto:leyk.get@gmail.com) and [tesjesus\@gmail.com](mailto:tesjesus@gmail.com).
 
 Happy Learning!
