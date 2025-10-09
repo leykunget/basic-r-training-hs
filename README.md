@@ -1,6 +1,6 @@
 # Basic R training organized by EPHI
 
-**Authors:** [Leykun Getaneh](https://github.com/leykunget) and [Tesfamichael Awoke](https://github.com/tesfapma)
+**Authors:** [Leykun Getaneh](https://github.com/leykunget), [Tesfamichael Awoke](https://github.com/tesfapma), and [Yebelay Berehan](https://github.com/Yebelay)
 
 Welcome to the **Basic R Training** repository! This repository contains all the slides and materials for the R training program conducted by NDMC. The training covers key topics.
 
@@ -47,10 +47,10 @@ Please be sure to complete these surveys before and after the workshop.
 
 | Days  | Topic                                           | Facilitator    |
 |-------|-------------------------------------------------|----------------|
-| Day 1 | Introduction to R and Rstudio                   | Leykun & Tesfamichael |
-| Day 2 | Data manipulation                               | Tesfamichael & Leykun |
-| Day 3 | Data Visualization                              | Leykun & Tesfamichael |
-| Day 4 | Creating reproducible reports and Data analysis | Tesfamichael & Leykun |
+| Day 1 | Introduction to R and Rstudio                   | Leykun, Tesfamichael, & Yebelay |
+| Day 2 | Data manipulation                               | Tesfamichael, Yebelay & Leykun |
+| Day 3 | Data Visualization                              | Leykun & Yebelay |
+| Day 4 | Creating reproducible reports and Data analysis | Yebelay, Tesfamichael & Leykun |
 
 ------------------------------------------------------------------------
 
@@ -59,9 +59,9 @@ Please be sure to complete these surveys before and after the workshop.
 | Topic                 | HTML Slide              | PDF Slide               |
 |-----------------------|-------------------------|-------------------------|
 | Introduction to R and RStudio | [View](https://leykungetaneh.quarto.pub/introduction2r/) | [Download]() |
-| Data Manipulation with dplyr in R | [View](https://leykungetaneh.quarto.pub/data-manipulation-r/) | [Download]() |
-| Basic Data Visualization with ggplot2 | [View](https://leykungetaneh.quarto.pub/data-viz-2/#/title-slide) | [Download]() |
-| Reproducible Reports with Quarto/R Markdown | [View](https://leykungetaneh.quarto.pub/introduction-to-quarto-markdown/#/title-slide) | [Download]() |
+| Data Manipulation with dplyr in R | [View]() | [Download]() |
+| Basic Data Visualization with ggplot2 | [View]() | [Download]() |
+| Reproducible Reports with Quarto/R Markdown | [View]() | [Download]() |
 | Data Analysis | [View]() | [Download]() |
 
 ------------------------------------------------------------------------
@@ -101,6 +101,6 @@ You can download the datasets from the following links:
 2.  Click on the **PDF** links to download the slides for offline use.
 3.  Materials will be updated as the training progresses. Please check back for updates.
 
-If you have any questions or issues, please feel free to contact us through [leyk.get\@gmail.com](mailto:leyk.get@gmail.com) and [tesjesus\@gmail.com](mailto:tesjesus@gmail.com).
+If you have any questions or issues, please feel free to contact us through [leyk.get\@gmail.com](mailto:leyk.get@gmail.com).
 
 Happy Learning!
