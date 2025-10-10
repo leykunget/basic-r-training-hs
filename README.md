@@ -1,4 +1,4 @@
-# Basic R training organized by EPHI
+# Basic R training organized by the Health System Research Directorate, EPHI
 
 **Authors:** [Leykun Getaneh](https://github.com/leykunget), [Tesfamichael Awoke](https://github.com/tesfapma), and [Yebelay Berehan](https://github.com/Yebelay)
 
@@ -47,9 +47,9 @@ Please be sure to complete these surveys before and after the workshop.
 
 | Days  | Topic                                           | Facilitator    |
 |-------|-------------------------------------------------|----------------|
-| Day 1 | Introduction to R and Rstudio                   | Leykun, Tesfamichael & Yebelay |
-| Day 2 | Data manipulation                               | Yebelay, Tesfamichael & Leykun |
-| Day 3 | Data Visualization                              | Leykun & Yebelay |
+| Day 1 | Introduction to R and Rstudio and data import        | Leykun, Tesfamichael & Yebelay |
+| Day 2 | Data management and manipulation                | Yebelay, Tesfamichael & Leykun |
+| Day 3 | Data visualization & EDA                        | Leykun & Yebelay |
 | Day 4 | Basic data analysis & Creating reproducible reports | Tesfamichael, Leykun, & Yebelay |
 
 ------------------------------------------------------------------------
