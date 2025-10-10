@@ -2,7 +2,7 @@
 
 **Authors:** [Leykun Getaneh](https://github.com/leykunget), [Tesfamichael Awoke](https://github.com/tesfapma), and [Yebelay Berehan](https://github.com/Yebelay)
 
-Welcome to the **Basic R Training** repository! This repository contains all the slides and materials for the R training program conducted by NDMC. The training covers key topics.
+Welcome to the **Basic R Training** repository! This repository contains all the slides and materials for the R training program conducted by *NDMC*. The training covers key topics.
 
 ------------------------------------------------------------------------
 
@@ -20,13 +20,13 @@ Welcome to the **Basic R Training** repository! This repository contains all the
 
 ## About This Training 
 
-This training is organized by **Ethiopian Public Health Institute (EPHI)** for public health professionals of EPHI focusing on:
+This training is organized by the **Health System Research Directorate, Ethiopian Public Health Institute (EPHI)**, in collaboration with **NDMC** for public health professionals of EPHI, focusing on:
 
 -   Understanding R and RStudio
 -   Data wrangling using the Tidyverse
 -   Data visualization using ggplot2
+-   Basic Data analysis
 -   Creating reproducible reports with R Markdown/Quarto
--   Data analysis
 
 Participants can access the slides and materials for each session below. Simply click on the links to view or download them. This training is designed to help participants gain practical skills in R programming and data analysis, enabling them to effectively manage and analyze public health data.
 
@@ -36,7 +36,7 @@ Participants can access the slides and materials for each session below. Simply 
 
 Please be sure to complete these surveys before and after the workshop.
 
--   [Pre-training Survey]()
+-   [Registration & Pre-training Survey](https://forms.gle/jvaw5mmnLA1oJS8F7)
 -   [Post-training Survey]()
 
 ------------------------------------------------------------------------
@@ -47,10 +47,10 @@ Please be sure to complete these surveys before and after the workshop.
 
 | Days  | Topic                                           | Facilitator    |
 |-------|-------------------------------------------------|----------------|
-| Day 1 | Introduction to R and Rstudio                   | Leykun, Tesfamichael, & Yebelay |
-| Day 2 | Data manipulation                               | Tesfamichael, Yebelay & Leykun |
+| Day 1 | Introduction to R and Rstudio                   | Leykun, Tesfamichael & Yebelay |
+| Day 2 | Data manipulation                               | Yebelay, Tesfamichael & Leykun |
 | Day 3 | Data Visualization                              | Leykun & Yebelay |
-| Day 4 | Creating reproducible reports and Data analysis | Yebelay, Tesfamichael & Leykun |
+| Day 4 | Basic data analysis & Creating reproducible reports | Tesfamichael, Leykun, & Yebelay |
 
 ------------------------------------------------------------------------
 
@@ -58,11 +58,11 @@ Please be sure to complete these surveys before and after the workshop.
 
 | Topic                 | HTML Slide              | PDF Slide               |
 |-----------------------|-------------------------|-------------------------|
-| Introduction to R and RStudio | [View](https://leykungetaneh.quarto.pub/introduction2r/) | [Download]() |
+| Introduction to R and RStudio & Data Import | [View]() | [Download]() |
 | Data Manipulation with dplyr in R | [View]() | [Download]() |
-| Basic Data Visualization with ggplot2 | [View]() | [Download]() |
-| Reproducible Reports with Quarto/R Markdown | [View]() | [Download]() |
+| Basic Data Visualization using ggplot2 | [View]() | [Download]() |
 | Data Analysis | [View]() | [Download]() |
+| Reproducible Reports with Quarto/R Markdown | [View]() | [Download]() |
 
 ------------------------------------------------------------------------
 
@@ -90,8 +90,8 @@ If you don’t already have R and RStudio, you must install R *before* you insta
 
 You can download the datasets from the following links:
 
--   [Download surveys.csv](https://drive.google.com/uc?export=download&id=1BanaMyyBYcSASAhgYHj0pIiskvVjrIhX)
--   [Download yrbss.csv](https://drive.google.com/uc?export=download&id=1CAMbI977y1lYM0RrdTeWiB8eH-WvcD8Q)
+-   [Download espa_data.dta]()
+-   [Download yrbss.csv]()
 
 ------------------------------------------------------------------------
 
