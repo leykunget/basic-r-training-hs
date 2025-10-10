@@ -2,7 +2,7 @@
 
 **Authors:** [Leykun Getaneh](https://github.com/leykunget), [Tesfamichael Awoke](https://github.com/tesfapma), and [Yebelay Berehan](https://github.com/Yebelay)
 
-Welcome to the **Basic R Training** repository! This repository contains all the slides and materials for the R training program conducted by *NDMC*. The training covers key topics.
+Welcome to the **Basic R Training** repository! This repository contains all the slides and materials for the R programming training . The training covers key topics.
 
 ------------------------------------------------------------------------
 
