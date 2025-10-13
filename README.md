@@ -58,7 +58,7 @@ Please be sure to complete these surveys before and after the workshop.
 
 | Topic                 | HTML Slide              | PDF Slide               |
 |-----------------------|-------------------------|-------------------------|
-| Introduction to R and RStudio & Data Import | [View]() | [Download]() |
+| Introduction to R and RStudio & Data Import | [View](https://leykungetaneh.quarto.pub/intro-2r/) | [Download]() |
 | Data Manipulation with dplyr in R | [View]() | [Download]() |
 | Basic Data Visualization using ggplot2 | [View]() | [Download]() |
 | Data Analysis | [View]() | [Download]() |
@@ -90,8 +90,8 @@ If you don’t already have R and RStudio, you must install R *before* you insta
 
 You can download the datasets from the following links:
 
--   [Download espa_data.dta]()
--   [Download yrbss.csv]()
+-   [Download ESPA_2021.zip](https://drive.google.com/file/d/17IwAMHUHzCSnsm__Hw0QR-4P3ehEwUBA/view?usp=sharing)
+-   [Download yrbss.csv](https://drive.google.com/uc?export=download&id=1CAMbI977y1lYM0RrdTeWiB8eH-WvcD8Q)
 
 ------------------------------------------------------------------------
 
