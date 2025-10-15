@@ -59,7 +59,7 @@ Please be sure to complete these surveys before and after the workshop.
 | Topic                 | HTML Slide              | PDF Slide               |
 |-----------------------|-------------------------|-------------------------|
 | Introduction to R and RStudio & Data Import | [View](https://leykungetaneh.quarto.pub/intro-2r/) | [Download]() |
-| Data Manipulation with dplyr in R | [View]() | [Download]() |
+| Data Manipulation with dplyr in R | [View](https://leykungetaneh.quarto.pub/data-mgt-dplyr/) | [Download]() |
 | Basic Data Visualization using ggplot2 | [View]() | [Download]() |
 | Data Analysis | [View]() | [Download]() |
 | Reproducible Reports with Quarto/R Markdown | [View]() | [Download]() |
